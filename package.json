@@ -1,0 +1,34 @@
+{
+  "name": "tinyTines",
+  "version": "1.0.0",
+  "description": "Tiny Tines Coding Exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "start": "node app.js c:\\Users\\jake_\\OneDrive\\Desktop\\coding-exercise\\tiny-tines-sunset.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakeKeenan25/tinyTines.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JakeKeenan25/tinyTines/issues"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "fetch": "^1.1.0",
+    "fs": "0.0.1-security",
+    "handlebars": "^4.7.6",
+    "mocha": "^7.1.2",
+    "request": "^2.88.2",
+    "sinon": "^9.0.2",
+    "unit.js": "^2.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.0.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
