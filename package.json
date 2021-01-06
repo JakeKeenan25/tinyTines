@@ -18,7 +18,7 @@
     "url": "https://github.com/JakeKeenan25/tinyTines/issues"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "fetch": "^1.1.0",
     "fs": "0.0.1-security",
     "handlebars": "^4.7.6",
